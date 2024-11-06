@@ -7,3 +7,5 @@
 ### [11월 2째주, 3주차] : 웹 응용, express
 
 [24.11.05](https://github.com/100-hours-a-week/Leeroy-til/blob/main/Oct/2024-11-05.md) 웹 응용
+
+[[24.11.06]](https://github.com/100-hours-a-week/Leeroy-til/blob/main/Oct/2024-11-06.md) 딥 다이브
