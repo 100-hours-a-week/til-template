@@ -9,3 +9,7 @@
 [24.11.05](https://github.com/100-hours-a-week/Leeroy-til/blob/main/Oct/2024-11-05.md) 웹 응용
 
 [24.11.06](https://github.com/100-hours-a-week/Leeroy-til/blob/main/Oct/2024-11-06.md) 딥 다이브
+
+24.11.07 여행
+
+[24.11.08](https://github.com/100-hours-a-week/Leeroy-til/blob/main/Oct/2024-11-08.md) react 강의 및 토이프로젝트
