@@ -22,7 +22,7 @@
 24.10.31 세부 주제 1 작성 (상세 내역 링크)
 
 ### [11월 첫째주, 3주차]
-24.11.10 homebrew 및 mariadb 설치
+[24.11.10](https://github.com/availrum) homebrew 및 mariadb 설치
 
 yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
 
