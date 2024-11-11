@@ -9,7 +9,7 @@
 
 24.11.12 세부 주제 1 작성 (상세 내역 링크)
 
-[24.11.11](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-11) 세부 주제 1 작성 (상세 내역 링크)
+[24.11.11](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-11) 페이지 레이아웃 - 회원가입페이지 제작
 
 ##
 
