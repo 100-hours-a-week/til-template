@@ -5,9 +5,9 @@
 
 24.11.14 세부 주제 1 작성 (상세 내역 링크)
 
-24.11.13 세부 주제 1 작성 (상세 내역 링크)
+[24.11.13](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-13.md) 딥다이브 - 전역 상태 관리 
 
-24.11.12 세부 주제 1 작성 (상세 내역 링크)
+[24.11.12](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-12.md) react hook 및 동기비동기
 
 [24.11.11](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-11) 페이지 레이아웃 - 회원가입페이지 제작
 
