@@ -13,3 +13,7 @@
 24.11.07 여행
 
 [24.11.08](https://github.com/100-hours-a-week/Leeroy-til/blob/main/Oct/2024-11-08.md) react 강의 및 토이프로젝트
+
+### [11월 3째주, 4주차] : react
+
+[[24.11.14]](https://github.com/100-hours-a-week/Leeroy-til/blob/main/Oct/2024-11-14.md) react심화2
