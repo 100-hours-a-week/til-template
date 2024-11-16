@@ -1,9 +1,9 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [11월 둘째주, 4주차]
-24.11.16 세부 주제 1 작성 (상세 내역 링크)
+[24.11.15](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-15.md) database(mariadb) aws서버연동 및 쿼리 실습
 
-24.11.14 세부 주제 1 작성 (상세 내역 링크)
+[24.11.14](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-14.md) 전역상태관리, 비동기, 함수호출과 정의, 함수바인딩
 
 [24.11.13](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-13.md) 딥다이브 - 전역 상태 관리 
 
