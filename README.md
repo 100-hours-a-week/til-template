@@ -43,7 +43,7 @@
 
 [24.11.05](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-05.md) 웹 응용 (클라이언트-서버의 구조와 이해, 폴링, 논폴링, SSR,CSR)
 
-[24.11.04](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-04.md) JS 응용 복습 (JS에서의 호이스팅, 객체 바인딩)
+[24.11.04](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-04.md)JS 응용 복습 (JS에서의 호이스팅, 객체 바인딩)
 
 ##
 
@@ -52,7 +52,7 @@
 
 [24.11.01](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-01.md) JS 응용 및 심화개념 (블로킹/논블로킹 - 동기/비동기, 스코프 this)
 
-[24.10.31](https://github.com/100-hours-a-week/june-til/blob/main/2024-10-31.md) express 서버 다루기(get, push), node.js 환경설정
+[24.10.31](https://github.com/100-hours-a-week/june-til/blob/main/2024-10-31.md) express 서버 다루기(get, push), node.js 환경설정
 
 [24.10.30](https://github.com/100-hours-a-week/june-til/blob/main/2024-10-30.md) 딥다이브 - 절차지향형, 함수지향형, 객체지향형 프로그래밍 패러다임의 차이
 
