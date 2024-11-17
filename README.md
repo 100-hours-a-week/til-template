@@ -1,5 +1,19 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [11월 셋째주, 5주차]
+[24.11.22](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-22.md) 작성예정
+
+[24.11.21](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-21.md) 작성예정
+
+[24.11.20](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-20.md) 딥다이브 - 작성예정 
+
+[24.11.19](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-19.md) 작성예정
+
+[24.11.18](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-18.md) 작성예정
+
+
+##
+
 ### [11월 둘째주, 4주차]
 [24.11.15](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-15.md) database(mariadb) aws서버연동 및 쿼리 실습
 
