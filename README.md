@@ -6,7 +6,7 @@
 
 [24.11.21](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-21.md) 작성예정
 
-[24.11.20](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-20.md) 딥다이브 -작성예정 
+[24.11.20](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-20.md) 딥다이브 - 작성예정 
 
 [24.11.19](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-19.md) 작성예정
 
@@ -43,7 +43,7 @@
 
 [24.11.05](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-05.md) 웹 응용 (클라이언트-서버의 구조와 이해, 폴링, 논폴링, SSR,CSR)
 
-[24.11.04](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-04.md)JS 응용 복습 (JS에서의 호이스팅, 객체 바인딩)
+[24.11.04](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-04.md) JS 응용 복습 (JS에서의 호이스팅, 객체 바인딩)
 
 ##
 
