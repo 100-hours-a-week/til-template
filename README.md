@@ -1,16 +1,34 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [11월 넷째주, 6주차]
+
+[24.11.29](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-29.md) 네트워킹 파티
+
+[24.11.28](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-28.md) 작성예정
+
+[24.11.27](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-27.md) 딥다이브 - 작성예정 
+
+[24.11.26](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-26.md) 작성예정
+
+[24.11.25](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-25.md) FE JS코드 작성, AWS ECS프리티어 생성
+
+
+##
+
+
 ### [11월 셋째주, 5주차]
 
-[24.11.22](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-22.md) 작성예정
+[24.11.23~11.24](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-23_24.md) 주말 문제풀이
 
-[24.11.21](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-21.md) 작성예정
+[24.11.22](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-22.md) 리눅스, CI, CD
+
+[24.11.21](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-21.md) REST API 작성
 
 [24.11.20](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-20.md) 딥다이브 - 작성예정 
 
-[24.11.19](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-19.md) 작성예정
+[24.11.19](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-19.md) 라우트, 라우터, 라우팅
 
-[24.11.18](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-18.md) 작성예정
+[24.11.18](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-18.md) HTTP 개념공부
 
 
 
