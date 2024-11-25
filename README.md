@@ -20,7 +20,7 @@
 
 [24.11.23~11.24](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-23_24.md) 주말 문제풀이
 
-[24.11.22](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-22.md) 리눅스, CI, CD
+[24.11.22](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-22.md) 리눅스, CI, CD
 
 [24.11.21](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-21.md) REST API 작성
 
