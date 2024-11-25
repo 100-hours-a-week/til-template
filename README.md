@@ -28,7 +28,7 @@
 
 [24.11.19](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-19.md) 라우트, 라우터, 라우팅
 
-[24.11.18](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-18.md) HTTP 개념공부
+[24.11.18](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-18.md) HTTP 개념공부
 
 
 
