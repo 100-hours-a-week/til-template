@@ -10,7 +10,7 @@
 
 [24.11.26](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-26.md) 작성예정
 
-[24.11.25](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-25.md) FE JS코드 작성, AWS ECS프리티어 생성
+[24.11.25](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-25.md) FE JS코드 작성, AWS ECS프리티어 생성
 
 
 ##
