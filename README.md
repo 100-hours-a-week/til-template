@@ -20,9 +20,9 @@
 
 ### [11월 넷째주, 6주차]
 
-[24.11.29](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-29.md) 게시글 기본페이지 추가(try2)
+[24.11.29](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-29.md) 네트워크와 KVM
 
-[24.11.28](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-28.md) 게시글 기본페이지 추가(try1)
+[24.11.28](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-28.md) 게시글 기본페이지 추가
 
 [24.11.27](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-27.md) 딥다이브 - 리눅스 퍼미션 
 
