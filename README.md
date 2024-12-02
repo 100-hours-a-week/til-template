@@ -4,9 +4,9 @@
 
 [24.11.29](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-29.md) 네트워킹 파티
 
-[24.11.28](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-28.md) 작성예정
+[24.11.28](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-28.md) 게시글 기본페이지 추가(시도)
 
-[24.11.27](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-27.md) 딥다이브 - 작성예정 
+[24.11.27](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-27.md) 딥다이브 - 리눅스 퍼미션 
 
 [24.11.26](https://github.com/100-hours-a-week/june-til/blob/main/2024-11-26.md) FE JS 코드 작성
 
