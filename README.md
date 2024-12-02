@@ -11,7 +11,7 @@
 
 [24.12.03](https://github.com/100-hours-a-week/june-til/blob/main/2024-12-03.md) 작성예정
 
-[24.12.02](https://github.com/100-hours-a-week/june-til/blob/main/2024-12-02.md) FE event-fetch 코드 작성
+[24.12.02](https://github.com/100-hours-a-week/june-til/blob/main/2024-12-02.md) FE event-fetch 코드 작성
 
 [24.11.30~12.01](https://github.com/100-hours-a-week/june-til/blob/main/2024-12-01.md) 주말 문제풀이
 
