@@ -1,23 +1,12 @@
-# til-template
-
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [4월 첫째주, 1주차] : html, css
+### [2월 첫째주, 1주차] : 재귀 함수와 반복문  
+25.02.04 세부 주제 2 : ???? (상세 내역 [링크](https://en.wikipedia.org/wiki/Tail_call))  
 
-24.04.05 세부 주제 4 작성 (상세 내역 링크)
+25.02.03 세부 주제 1 : 재귀 vs 반복, 테일 콜, 콜 스택 (상세 내역 [링크](https://github.com/Taeseong-eom/tei-til/blob/main/2%EC%9B%94/2025-02-03.md))  
 
-24.04.04 세부 주제 3 작성 (상세 내역 링크)
+### [3월 첫째주, 1주차] : html, css
 
-24.04.03 세부 주제 2 작성 (상세 내역 링크)
+25.04.05 세부 주제 4 작성 (상세 내역 링크)
 
-24.04.02 세부 주제 1 작성 (상세 내역 링크)
-
-### [n월 n째주, n주차] : 간략 주제 작성 
-
-yy.mm.dd 세부 주제 4 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+25.04.04 세부 주제 3 작성 (상세 내역 링크)
