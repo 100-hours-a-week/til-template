@@ -8,7 +8,7 @@
 
 25.02.04 프로세스, 스레드 개념 정리 작성 ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Feb/2025-02-04.md))
 
-24.04.03 세부 주제 2 작성 (상세 내역 링크)
+25.02.05 동기/비동기, 블로킹/논블로킹 ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Feb/2025-02-05.md))
 
 24.04.02 세부 주제 1 작성 (상세 내역 링크)
 
