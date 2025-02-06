@@ -10,7 +10,7 @@
 
 25.02.05 동기/비동기, 블로킹/논블로킹 ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Feb/2025-02-05.md))
 
-24.04.02 세부 주제 1 작성 (상세 내역 링크)
+25.02.06 동시성, 병렬성 ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Feb/2025-02-06.md))
 
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
