@@ -12,6 +12,8 @@
 
 25.02.06 동시성, 병렬성 ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Feb/2025-02-06.md))
 
+25.02.07 2주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Feb/2025-02-07.md))
+
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
 yy.mm.dd 세부 주제 4 작성 (상세 내역 링크)
