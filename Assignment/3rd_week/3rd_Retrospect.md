@@ -70,7 +70,7 @@
 
 - `freq=’M’`
 
-![image.png]([attachment:bd923a4b-a09b-4d92-9713-1cbeb3cc989f:image.png](https://github.com/ahyun0/2-rina-kim-til/blob/main/image/3rd_freq_M.png))
+![3rd_freq_M]([attachment:bd923a4b-a09b-4d92-9713-1cbeb3cc989f:image.png](https://github.com/ahyun0/2-rina-kim-til/blob/main/image/3rd_freq_M.png))
 
 - `freq=’MS’`
 
