@@ -14,6 +14,34 @@
 
 25.02.07 2주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Feb/2025-02-07.md))
 
+25.02.08
+
+25.02.09
+
+### [2월 둘째주, 3주차] : 웹기초
+
+25.02.10
+
+25.02.11
+
+25.02.12
+
+25.02.13
+
+25.02.14 3주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Feb/2025-02-14.md))
+
+### [2월 둘째주, 3주차] : JS기초, 응용
+
+25.02.17
+
+25.02.18
+
+25.02.19
+
+25.02.20 Async-Await, JS 엔진, Promise ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Feb/2025-02-20.md))
+
+25.02.21
+
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
 yy.mm.dd 세부 주제 4 작성 (상세 내역 링크)
