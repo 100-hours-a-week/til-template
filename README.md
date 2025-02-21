@@ -40,7 +40,7 @@
 
 25.02.20 Async-Await, JS 엔진, Promise ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Feb/2025-02-20.md))
 
-25.02.21
+25.02.21 4주차 딥다이브 ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Feb/2025-02-21.md))
 
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
