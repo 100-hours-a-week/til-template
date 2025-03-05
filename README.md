@@ -46,7 +46,7 @@
 
 25.03.04 DB ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Mar/2025-03-04.md))
 
-yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
+25.03.05 index, transaction, nosql, spring ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Mar/2025-03-05.md))
 
 yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
 
