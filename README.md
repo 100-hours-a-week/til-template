@@ -47,3 +47,8 @@
 25.03.05 세부 주제 2 : Early Stopping을 활용한 과적합 방지, GridSearch와 RandomSearch를 통한 하이퍼파라미터 튜닝 (상세 내역 [링크](2월/2025-03-05.md))
 
 25.03.06 세부 주제 3 : Few-Shot Learning과 Zero-Shot Learning의 개념과 활용 사례, TensorBoard를 활용한 모델 학습 시각화 및 정규화 기법과 하이퍼파라미터 튜닝 (상세 내역 [링크](2월/2025-03-06.md))
+
+### [3월 셋째주, 8주차] : 
+
+25.03.21 세부 주제 1 : OpenAIEmbeddings 과 Gemini API를 활용한 임베딩 및 뉴스 챗봇 제작, EfficientNet-WideSE-B0 모델의 성능 개선 전략을 탐색 (상세 내역 [링크](2월/2025-03-21.md))
+
