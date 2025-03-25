@@ -52,6 +52,10 @@
 
 yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
 
+### [3월 4째주, 8주차] : Spring Boot
+
+25.03.25 과제 고도화 방안 - Redis ([상세 내역 링크](https://github.com/100-hours-a-week/jun.nam-til/blob/main/25.Mar/2025-03-25.md))
+
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
 yy.mm.dd 세부 주제 4 작성 (상세 내역 링크)
